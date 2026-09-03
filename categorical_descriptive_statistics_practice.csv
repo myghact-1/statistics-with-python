@@ -1,0 +1,451 @@
+customer_id,city,gender,education_level,employment_status,device_type,membership_plan,satisfaction,newsletter,support_contacted,preferred_payment
+2001,Bengaluru,Female,PhD,Employed,Android,Basic,Very Dissatisfied,No,No,Net Banking
+2002,Pune,Male,Master's,Student,Windows Laptop,Basic,Satisfied,Yes,No,Net Banking
+2003,Jaipur,Male,Master's,Self-employed,MacBook,Basic,Neutral,Yes,No,Credit Card
+2004,Jaipur,Female,Bachelor's,Employed,Android,Standard,Satisfied,Yes,No,Net Banking
+2005,Mumbai,Male,Master's,Employed,Android,Standard,Very Satisfied,Yes,Yes,UPI
+2006,Pune,Female,Diploma,Employed,iPhone,Basic,Neutral,Yes,No,UPI
+2007,Mumbai,Female,High School,Employed,Windows Laptop,Standard,Satisfied,Yes,Yes,UPI
+2008,Hyderabad,Female,PhD,Student,iPhone,Basic,Neutral,Yes,No,Credit Card
+2009,Chennai,Male,Master's,Student,Android,Basic,Very Dissatisfied,Yes,No,UPI
+2010,Hyderabad,Female,Bachelor's,Student,iPhone,Basic,Very Satisfied,No,No,Cash
+2011,Kolkata,Male,Master's,Employed,iPhone,Standard,Satisfied,Yes,No,UPI
+2012,Hyderabad,Female,Bachelor's,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2013,Chennai,Male,Bachelor's,Unemployed,Android,Standard,Satisfied,Yes,No,Credit Card
+2014,Chennai,Female,Bachelor's,Employed,Tablet,Basic,Dissatisfied,Yes,Yes,UPI
+2015,Hyderabad,Female,Diploma,Employed,Android,Standard,Satisfied,Yes,No,Debit Card
+2016,Hyderabad,Female,Bachelor's,Employed,Android,Basic,Neutral,Yes,No,UPI
+2017,Kolkata,Male,Bachelor's,Employed,Android,Standard,Very Satisfied,No,No,Cash
+2018,Bengaluru,Female,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,No,Debit Card
+2019,Pune,Non-binary,,Employed,iPhone,Basic,Satisfied,No,Yes,UPI
+2020,Bengaluru,Male,PhD,Employed,Android,Basic,Satisfied,Yes,Yes,UPI
+2021,Chennai,Non-binary,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,No,UPI
+2022,Mumbai,Female,Master's,Employed,Windows Laptop,Premium,Very Satisfied,Yes,No,Cash
+2023,Chennai,Male,High School,Retired,Android,Premium,Dissatisfied,Yes,No,Debit Card
+2024,Hyderabad,Male,Bachelor's,Employed,MacBook,Basic,Very Dissatisfied,Yes,No,Credit Card
+2025,Kolkata,Male,Master's,Employed,Android,Standard,Dissatisfied,Yes,No,UPI
+2026,Delhi,Non-binary,Bachelor's,Student,Android,Basic,Satisfied,Yes,No,Net Banking
+2027,Pune,Male,Diploma,Employed,Tablet,Basic,Satisfied,No,Yes,UPI
+2028,Hyderabad,Male,Bachelor's,Employed,MacBook,Standard,Dissatisfied,Yes,No,Debit Card
+2029,Kolkata,Male,Bachelor's,Student,Android,Standard,Satisfied,Yes,Yes,Debit Card
+2030,Kolkata,Female,Bachelor's,Employed,MacBook,Standard,Satisfied,No,No,UPI
+2031,Bengaluru,Male,Bachelor's,Employed,iPhone,Standard,Dissatisfied,Yes,No,Credit Card
+2032,Bengaluru,Male,Bachelor's,Student,Android,Basic,Very Satisfied,No,No,UPI
+2033,Jaipur,Male,Master's,Unemployed,MacBook,Standard,Satisfied,No,No,UPI
+2034,Kolkata,Male,High School,Employed,Windows Laptop,Basic,Satisfied,No,No,Cash
+2035,Delhi,Female,Bachelor's,Employed,Android,Basic,Satisfied,Yes,No,Debit Card
+2036,Hyderabad,Female,Master's,Employed,iPhone,Basic,Neutral,Yes,No,Net Banking
+2037,Hyderabad,Female,Diploma,Unemployed,Android,Premium,Very Satisfied,Yes,Yes,Credit Card
+2038,Mumbai,Male,Diploma,Employed,Android,Standard,Satisfied,Yes,No,UPI
+2039,Delhi,Female,Diploma,Employed,Tablet,Basic,Satisfied,Yes,No,Debit Card
+2040,Delhi,Male,High School,Employed,iPhone,Standard,Very Satisfied,Yes,No,Credit Card
+2041,Chennai,Male,Bachelor's,Employed,iPhone,Premium,Very Satisfied,Yes,No,UPI
+2042,Bengaluru,Male,High School,Employed,iPhone,Premium,Very Satisfied,Yes,Yes,Credit Card
+2043,Jaipur,Female,Bachelor's,Retired,iPhone,Standard,Neutral,Yes,No,Credit Card
+2044,Hyderabad,Male,PhD,Employed,Android,Basic,Dissatisfied,Yes,No,Debit Card
+2045,Delhi,Female,Master's,Employed,Tablet,Standard,Satisfied,No,No,UPI
+2046,Chennai,Male,Diploma,Employed,Windows Laptop,Standard,Satisfied,Yes,No,Net Banking
+2047,Delhi,Female,Bachelor's,Self-employed,Windows Laptop,Premium,Satisfied,Yes,Yes,UPI
+2048,Delhi,Female,Bachelor's,Self-employed,iPhone,Standard,Very Satisfied,No,Yes,UPI
+2049,Jaipur,Female,Master's,Employed,Android,Basic,Neutral,Yes,Yes,UPI
+2050,Bengaluru,Male,Master's,Employed,Android,Basic,Neutral,Yes,Yes,Debit Card
+2051,Mumbai,Female,Diploma,Student,Android,Standard,Satisfied,No,No,UPI
+2052,Hyderabad,Male,Diploma,Employed,Android,Basic,Neutral,Yes,No,Credit Card
+2053,Bengaluru,Male,Bachelor's,Self-employed,Windows Laptop,Basic,Satisfied,Yes,No,UPI
+2054,Mumbai,Male,Master's,Employed,MacBook,Standard,Satisfied,No,No,Debit Card
+2055,Delhi,Female,Master's,Student,Android,Standard,Satisfied,No,No,Debit Card
+2056,Delhi,Female,High School,Employed,Android,Premium,Satisfied,No,Yes,UPI
+2057,Kolkata,Female,Bachelor's,Employed,Windows Laptop,Standard,Satisfied,No,Yes,Cash
+2058,Jaipur,Female,Diploma,Self-employed,Android,Premium,Satisfied,Yes,No,UPI
+2059,Kolkata,Male,Master's,Student,MacBook,Standard,Neutral,No,No,UPI
+2060,Mumbai,Female,Master's,Employed,Android,Standard,Satisfied,Yes,No,Credit Card
+2061,Jaipur,Female,Bachelor's,Employed,Android,Basic,Satisfied,No,No,Debit Card
+2062,Delhi,Female,High School,Unemployed,Android,Standard,Neutral,No,No,UPI
+2063,Jaipur,Male,Bachelor's,Student,Tablet,Basic,Satisfied,No,Yes,Credit Card
+2064,Hyderabad,Female,Bachelor's,Unemployed,Android,Basic,Very Satisfied,No,Yes,UPI
+2065,Bengaluru,Male,Master's,Employed,Windows Laptop,Basic,Neutral,Yes,Yes,Credit Card
+2066,Mumbai,Female,Bachelor's,Employed,Android,Standard,Satisfied,No,No,Debit Card
+2067,Pune,Non-binary,Master's,Student,Android,Standard,Very Satisfied,Yes,No,Cash
+2068,Pune,Male,Bachelor's,Employed,MacBook,Premium,Very Satisfied,Yes,No,Credit Card
+2069,Kolkata,Female,Diploma,Employed,Android,Premium,Satisfied,No,No,Credit Card
+2070,Kolkata,Female,Bachelor's,Employed,Android,Premium,Satisfied,No,No,Credit Card
+2071,Pune,Female,High School,Employed,iPhone,Basic,Very Satisfied,Yes,No,UPI
+2072,Chennai,Female,Bachelor's,Employed,,Premium,Satisfied,Yes,No,UPI
+2073,Hyderabad,Female,Master's,Employed,Android,Premium,Dissatisfied,Yes,No,Cash
+2074,Bengaluru,Male,Diploma,Student,Android,Premium,Very Dissatisfied,Yes,Yes,UPI
+2075,Pune,Male,High School,Employed,Tablet,Basic,Very Satisfied,Yes,Yes,Debit Card
+2076,Jaipur,Female,Diploma,Student,Windows Laptop,Basic,Satisfied,No,No,UPI
+2077,Hyderabad,Male,High School,Unemployed,MacBook,Premium,Neutral,Yes,No,Debit Card
+2078,Kolkata,Female,Master's,Retired,Windows Laptop,Basic,Satisfied,No,No,UPI
+2079,Jaipur,Non-binary,PhD,Employed,Windows Laptop,Basic,Very Satisfied,Yes,No,Cash
+2080,Chennai,Female,High School,Student,iPhone,Basic,Satisfied,No,No,Debit Card
+2081,Kolkata,Male,Master's,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2082,Delhi,Male,Master's,Employed,Windows Laptop,Basic,Satisfied,No,Yes,Debit Card
+2083,Bengaluru,Female,PhD,Self-employed,Windows Laptop,Premium,Very Satisfied,No,Yes,Credit Card
+2084,Kolkata,Female,Bachelor's,Employed,Tablet,Premium,Very Satisfied,No,No,UPI
+2085,Kolkata,Female,Bachelor's,Student,iPhone,Premium,Neutral,No,No,UPI
+2086,Jaipur,Male,Bachelor's,Student,Android,Basic,Satisfied,Yes,Yes,Debit Card
+2087,Mumbai,Male,Master's,Employed,iPhone,Basic,Very Dissatisfied,Yes,Yes,Debit Card
+2088,Pune,Male,Master's,Self-employed,iPhone,Basic,Very Satisfied,Yes,Yes,UPI
+2089,Delhi,Male,Bachelor's,Employed,iPhone,Basic,Neutral,No,Yes,Net Banking
+2090,Mumbai,Male,Diploma,Employed,Windows Laptop,Basic,Satisfied,Yes,Yes,UPI
+2091,Jaipur,Male,Master's,Employed,iPhone,Standard,Very Satisfied,Yes,Yes,UPI
+2092,Jaipur,Male,Master's,Unemployed,Android,Premium,Neutral,Yes,No,Credit Card
+2093,Bengaluru,Male,Bachelor's,Employed,iPhone,Standard,Very Satisfied,Yes,No,UPI
+2094,Pune,Female,Master's,Self-employed,Windows Laptop,Basic,Very Dissatisfied,No,No,UPI
+2095,Pune,Male,Bachelor's,Unemployed,MacBook,Basic,Satisfied,No,No,Credit Card
+2096,Hyderabad,Female,Bachelor's,Employed,iPhone,Basic,Satisfied,No,No,UPI
+2097,Mumbai,Female,Bachelor's,Unemployed,iPhone,Basic,Satisfied,No,No,UPI
+2098,Delhi,Male,Master's,Employed,iPhone,Standard,Satisfied,No,No,Debit Card
+2099,Jaipur,Female,PhD,Employed,iPhone,Basic,Very Satisfied,Yes,No,Credit Card
+2100,Delhi,Female,Bachelor's,Student,Android,Standard,Neutral,No,Yes,Net Banking
+2101,Delhi,Female,Bachelor's,Employed,MacBook,Premium,Satisfied,Yes,No,Credit Card
+2102,Delhi,Male,Bachelor's,Student,MacBook,Basic,Very Satisfied,No,No,Credit Card
+2103,Jaipur,Male,Diploma,Student,iPhone,Basic,Very Satisfied,No,No,UPI
+2104,Jaipur,Female,Bachelor's,Student,iPhone,Basic,Very Dissatisfied,Yes,Yes,Debit Card
+2105,Pune,Female,High School,Employed,Android,Basic,Very Satisfied,Yes,No,UPI
+2106,Pune,Female,Bachelor's,Employed,iPhone,Standard,Very Dissatisfied,Yes,No,UPI
+2107,Kolkata,Non-binary,Diploma,Employed,iPhone,Standard,Satisfied,Yes,No,Net Banking
+2108,Hyderabad,Female,Bachelor's,Employed,Windows Laptop,Premium,Satisfied,No,Yes,Debit Card
+2109,Bengaluru,Non-binary,Master's,Retired,Android,Standard,Very Satisfied,Yes,No,Credit Card
+2110,Jaipur,Male,Diploma,Unemployed,Windows Laptop,Basic,Dissatisfied,Yes,No,UPI
+2111,Bengaluru,Female,Bachelor's,Student,Android,Basic,Neutral,Yes,Yes,UPI
+2112,Jaipur,Male,Master's,Employed,Windows Laptop,Basic,Very Satisfied,Yes,No,Credit Card
+2113,Mumbai,Male,Bachelor's,Employed,Windows Laptop,Basic,Dissatisfied,Yes,No,Debit Card
+2114,Mumbai,Male,Diploma,Employed,Android,Premium,Satisfied,Yes,No,Credit Card
+2115,Mumbai,Female,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,Yes,UPI
+2116,Delhi,Male,Bachelor's,Employed,MacBook,Basic,Satisfied,Yes,No,UPI
+2117,Pune,Male,Bachelor's,Student,iPhone,Basic,Neutral,Yes,No,Credit Card
+2118,Chennai,Male,Diploma,Employed,Android,Basic,Neutral,Yes,Yes,Debit Card
+2119,Hyderabad,Non-binary,Bachelor's,Employed,iPhone,Premium,Very Satisfied,No,Yes,UPI
+2120,Pune,Male,Bachelor's,Employed,Android,Basic,Satisfied,Yes,Yes,UPI
+2121,Bengaluru,Male,Bachelor's,Self-employed,Windows Laptop,Basic,Very Dissatisfied,Yes,No,UPI
+2122,Jaipur,Male,Bachelor's,Student,iPhone,Basic,Neutral,No,No,UPI
+2123,Hyderabad,Female,High School,Student,Android,Standard,Satisfied,Yes,No,Credit Card
+2124,Bengaluru,Female,Bachelor's,Student,iPhone,Standard,Very Satisfied,Yes,Yes,UPI
+2125,Delhi,Female,Master's,Student,Windows Laptop,Standard,Neutral,No,No,Credit Card
+2126,Mumbai,Male,Bachelor's,Student,Windows Laptop,Basic,Very Dissatisfied,Yes,Yes,Debit Card
+2127,Kolkata,Female,Bachelor's,Employed,Android,Basic,Satisfied,No,No,Cash
+2128,Pune,Male,Bachelor's,Employed,Android,Premium,Dissatisfied,No,No,Cash
+2129,Bengaluru,Female,Bachelor's,Employed,iPhone,Basic,Neutral,No,No,UPI
+2130,Pune,Female,Master's,Employed,Android,Basic,,No,No,UPI
+2131,Mumbai,Male,Bachelor's,Student,iPhone,Standard,Satisfied,Yes,No,UPI
+2132,Bengaluru,Female,Diploma,Employed,Android,Basic,Very Dissatisfied,No,Yes,Debit Card
+2133,Delhi,Male,Master's,Student,Android,Basic,Satisfied,Yes,Yes,UPI
+2134,Mumbai,Female,Master's,Self-employed,Windows Laptop,Standard,Neutral,Yes,No,UPI
+2135,Pune,Male,Master's,Student,Android,Standard,Dissatisfied,Yes,Yes,UPI
+2136,Jaipur,Female,High School,Employed,Windows Laptop,Basic,Satisfied,Yes,No,UPI
+2137,Hyderabad,Non-binary,Diploma,Unemployed,Android,Basic,Satisfied,Yes,Yes,Debit Card
+2138,Delhi,Male,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,No,Debit Card
+2139,Pune,Female,Diploma,Employed,iPhone,Basic,Very Satisfied,Yes,No,Credit Card
+2140,Pune,Female,Diploma,Employed,Windows Laptop,Basic,Neutral,Yes,No,Net Banking
+2141,Pune,Female,Master's,Student,Windows Laptop,Standard,Very Satisfied,No,No,UPI
+2142,Pune,Male,Bachelor's,Employed,Android,Standard,Satisfied,Yes,Yes,UPI
+2143,Kolkata,Male,High School,Self-employed,Windows Laptop,Premium,Neutral,No,Yes,Credit Card
+2144,Bengaluru,Female,High School,Retired,Android,Basic,Very Satisfied,No,No,Debit Card
+2145,Hyderabad,Female,Bachelor's,Employed,iPhone,Basic,Very Dissatisfied,No,No,Credit Card
+2146,Pune,Male,Bachelor's,Employed,Android,Standard,Satisfied,Yes,No,UPI
+2147,Delhi,Male,Master's,Employed,iPhone,Standard,Satisfied,No,No,Cash
+2148,Delhi,Male,High School,Employed,Android,Basic,Neutral,No,No,UPI
+2149,Mumbai,Male,Diploma,Employed,MacBook,Standard,Very Satisfied,No,Yes,UPI
+2150,Delhi,Male,Bachelor's,Student,iPhone,Basic,Neutral,No,No,Credit Card
+2151,Mumbai,Non-binary,Bachelor's,Student,iPhone,Premium,Very Satisfied,Yes,No,Cash
+2152,Mumbai,Female,Bachelor's,Employed,Android,Premium,Dissatisfied,Yes,No,Debit Card
+2153,Pune,Female,Master's,Student,Android,Basic,Dissatisfied,No,No,Cash
+2154,Delhi,Female,Bachelor's,Student,Android,Premium,Satisfied,Yes,No,UPI
+2155,Hyderabad,Male,Bachelor's,Student,MacBook,Premium,Very Satisfied,No,No,Credit Card
+2156,Mumbai,Female,PhD,Unemployed,Windows Laptop,Basic,Dissatisfied,Yes,No,Net Banking
+2157,Pune,Male,High School,Student,Android,Basic,Very Satisfied,Yes,Yes,Credit Card
+2158,Jaipur,Male,PhD,Student,Windows Laptop,Standard,Neutral,Yes,No,UPI
+2159,Bengaluru,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,Yes,No,Cash
+2160,Jaipur,Male,Bachelor's,Employed,Android,Basic,Satisfied,No,No,UPI
+2161,Pune,Female,Master's,Unemployed,iPhone,Basic,Dissatisfied,Yes,Yes,Credit Card
+2162,Mumbai,Male,Bachelor's,Unemployed,Android,Premium,Very Satisfied,No,No,Net Banking
+2163,Kolkata,Female,Bachelor's,Employed,Android,Basic,Satisfied,Yes,No,Net Banking
+2164,Mumbai,Male,Bachelor's,Employed,Windows Laptop,Standard,Satisfied,No,Yes,Cash
+2165,Bengaluru,Male,Master's,Employed,Android,Basic,Satisfied,Yes,Yes,Net Banking
+2166,Delhi,Male,Bachelor's,Student,MacBook,Basic,Satisfied,Yes,Yes,UPI
+2167,Pune,Male,Diploma,Employed,Windows Laptop,Premium,Satisfied,Yes,No,Net Banking
+2168,Bengaluru,Female,Master's,Student,MacBook,Basic,Very Satisfied,Yes,No,Credit Card
+2169,Mumbai,Male,Master's,Student,iPhone,Basic,Satisfied,No,Yes,Debit Card
+2170,Delhi,Male,Bachelor's,Employed,MacBook,Basic,Satisfied,No,No,Credit Card
+2171,Jaipur,Male,High School,Student,Android,Standard,Satisfied,Yes,No,Net Banking
+2172,Jaipur,Female,Bachelor's,Student,iPhone,Basic,Satisfied,Yes,No,Credit Card
+2173,Kolkata,Female,High School,Employed,iPhone,Basic,Satisfied,Yes,No,Net Banking
+2174,Mumbai,Male,High School,Employed,MacBook,Basic,Satisfied,Yes,No,UPI
+2175,Jaipur,Female,Bachelor's,Student,Android,Basic,Satisfied,Yes,No,UPI
+2176,Kolkata,Male,High School,Student,iPhone,Basic,Very Satisfied,Yes,Yes,Credit Card
+2177,Jaipur,Male,Bachelor's,Student,Windows Laptop,Standard,Very Satisfied,Yes,No,UPI
+2178,Mumbai,Male,Master's,Employed,Android,Basic,Very Satisfied,No,No,Debit Card
+2179,Hyderabad,Female,Bachelor's,Self-employed,MacBook,Basic,Very Satisfied,Yes,No,UPI
+2180,Kolkata,Male,PhD,Unemployed,Android,Standard,Satisfied,Yes,No,Credit Card
+2181,Hyderabad,Female,Master's,Employed,Android,Standard,Satisfied,Yes,No,UPI
+2182,Bengaluru,Male,Bachelor's,Employed,iPhone,Basic,Neutral,Yes,No,UPI
+2183,Kolkata,Male,PhD,Employed,iPhone,Basic,Satisfied,Yes,No,Credit Card
+2184,Jaipur,Female,Master's,Employed,Android,Basic,Neutral,Yes,No,UPI
+2185,Kolkata,Female,Bachelor's,Student,Android,Premium,Very Dissatisfied,Yes,Yes,UPI
+2186,Chennai,Female,Master's,Student,Android,Basic,Very Satisfied,No,Yes,UPI
+2187,Kolkata,Male,Diploma,Employed,Windows Laptop,Basic,Very Satisfied,No,Yes,UPI
+2188,Delhi,Male,Master's,Employed,MacBook,Basic,Satisfied,No,Yes,Credit Card
+2189,Jaipur,Female,Bachelor's,Student,iPhone,Basic,Neutral,No,No,UPI
+2190,Pune,Female,High School,Employed,Android,Basic,Satisfied,Yes,No,UPI
+2191,Bengaluru,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,Yes,No,Debit Card
+2192,Bengaluru,Female,PhD,Employed,MacBook,Standard,Very Satisfied,Yes,Yes,Credit Card
+2193,Kolkata,Male,Bachelor's,Employed,Windows Laptop,Standard,Very Satisfied,No,No,Credit Card
+2194,Pune,Male,Diploma,Employed,Android,Standard,Satisfied,No,No,UPI
+2195,Delhi,Male,Diploma,Employed,Android,Standard,Neutral,Yes,No,Cash
+2196,Mumbai,Male,Bachelor's,Student,MacBook,Basic,Neutral,Yes,No,Credit Card
+2197,Jaipur,Male,Master's,Student,MacBook,Premium,Dissatisfied,Yes,No,UPI
+2198,Delhi,Male,Master's,Self-employed,Android,Standard,Satisfied,Yes,Yes,Net Banking
+2199,Jaipur,Female,Bachelor's,Employed,MacBook,Standard,Very Dissatisfied,No,No,Debit Card
+2200,Chennai,Female,Diploma,Student,Android,Standard,Dissatisfied,Yes,No,Credit Card
+2201,Pune,Male,High School,Employed,Android,Basic,Neutral,Yes,Yes,Net Banking
+2202,Bengaluru,Female,Bachelor's,Self-employed,Windows Laptop,Basic,Dissatisfied,Yes,No,UPI
+2203,Mumbai,Male,Master's,Employed,iPhone,Basic,Satisfied,Yes,No,Net Banking
+2204,Pune,Male,Master's,Self-employed,iPhone,Basic,Dissatisfied,Yes,No,Debit Card
+2205,Chennai,Non-binary,Bachelor's,Employed,MacBook,Basic,Very Satisfied,No,No,UPI
+2206,Chennai,Female,Bachelor's,Employed,MacBook,Basic,Neutral,Yes,No,UPI
+2207,Bengaluru,Male,Bachelor's,Employed,Android,Basic,Dissatisfied,Yes,No,UPI
+2208,Chennai,Male,Bachelor's,Student,iPhone,Premium,Very Dissatisfied,Yes,No,Cash
+2209,Bengaluru,Female,Bachelor's,Employed,Windows Laptop,Standard,Satisfied,Yes,No,UPI
+2210,Bengaluru,Male,Master's,Employed,iPhone,Standard,Neutral,Yes,No,UPI
+2211,Chennai,Male,Bachelor's,Student,Tablet,Basic,Satisfied,Yes,Yes,Debit Card
+2212,Mumbai,Non-binary,PhD,Self-employed,Windows Laptop,Standard,Dissatisfied,Yes,No,Debit Card
+2213,Mumbai,Male,Bachelor's,Employed,Android,Premium,Very Satisfied,Yes,No,UPI
+2214,Delhi,Female,High School,Student,Android,Standard,Dissatisfied,No,No,Net Banking
+2215,Bengaluru,Male,Diploma,Employed,MacBook,Standard,Satisfied,No,No,Credit Card
+2216,Bengaluru,Male,Bachelor's,Self-employed,Tablet,Basic,Very Satisfied,No,No,Net Banking
+2217,Pune,Female,Bachelor's,Unemployed,Android,Basic,Neutral,Yes,No,UPI
+2218,Mumbai,Female,Bachelor's,Employed,Android,Standard,Neutral,No,Yes,UPI
+2219,Delhi,Female,Master's,Unemployed,Windows Laptop,Premium,Very Satisfied,No,Yes,Credit Card
+2220,Chennai,Female,,Self-employed,Android,Basic,Neutral,Yes,No,UPI
+2221,Mumbai,Male,Master's,Self-employed,Android,Basic,Very Dissatisfied,Yes,No,Credit Card
+2222,Kolkata,Female,Master's,Self-employed,MacBook,Basic,Satisfied,Yes,Yes,UPI
+2223,Delhi,Male,Bachelor's,Employed,Windows Laptop,Basic,Very Dissatisfied,No,Yes,Debit Card
+2224,Bengaluru,Female,Bachelor's,Employed,MacBook,Premium,Very Satisfied,Yes,Yes,Net Banking
+2225,Bengaluru,Male,Diploma,Employed,Windows Laptop,Standard,Satisfied,Yes,No,Net Banking
+2226,Chennai,Female,Bachelor's,Employed,Android,Basic,Satisfied,No,No,Cash
+2227,Jaipur,Male,Master's,Student,MacBook,Basic,Neutral,Yes,No,Net Banking
+2228,Kolkata,Female,Master's,Employed,Android,Basic,Satisfied,No,Yes,Credit Card
+2229,Bengaluru,Male,Bachelor's,Unemployed,Android,Basic,Satisfied,No,Yes,Credit Card
+2230,Bengaluru,Female,Bachelor's,Employed,MacBook,Standard,Dissatisfied,No,Yes,Net Banking
+2231,Bengaluru,Female,Master's,Retired,Windows Laptop,Standard,Very Satisfied,No,No,Net Banking
+2232,Jaipur,Male,Master's,Employed,MacBook,Standard,Satisfied,Yes,Yes,Cash
+2233,Bengaluru,Male,Bachelor's,Student,Android,Basic,Very Satisfied,No,No,Debit Card
+2234,Delhi,Male,Master's,Student,Tablet,Standard,Neutral,No,No,UPI
+2235,Mumbai,Female,High School,Employed,iPhone,Standard,Dissatisfied,No,No,Cash
+2236,Pune,Female,High School,Employed,Windows Laptop,Basic,Satisfied,Yes,No,Cash
+2237,Bengaluru,Male,Diploma,Employed,MacBook,Standard,Very Satisfied,Yes,Yes,Debit Card
+2238,Jaipur,Male,Diploma,Employed,iPhone,Standard,Satisfied,Yes,Yes,Net Banking
+2239,Jaipur,Female,Master's,Employed,Windows Laptop,Premium,Very Dissatisfied,Yes,No,Credit Card
+2240,Delhi,Male,Bachelor's,Employed,Windows Laptop,Basic,Very Satisfied,Yes,No,Cash
+2241,Delhi,Male,Bachelor's,Self-employed,Windows Laptop,Basic,Neutral,No,No,UPI
+2242,Pune,Male,Bachelor's,Employed,MacBook,Standard,Satisfied,No,No,Net Banking
+2243,Delhi,Female,Bachelor's,Employed,Windows Laptop,Basic,Satisfied,No,No,UPI
+2244,Chennai,Female,Bachelor's,Employed,Android,Basic,Dissatisfied,Yes,No,UPI
+2245,Delhi,Female,Diploma,Retired,Android,Standard,Dissatisfied,Yes,No,UPI
+2246,Jaipur,Male,Master's,Employed,Tablet,Basic,Very Dissatisfied,Yes,Yes,Credit Card
+2247,Chennai,Female,Diploma,Employed,Tablet,Basic,Very Satisfied,Yes,Yes,UPI
+2248,Delhi,Male,Master's,Student,Tablet,Premium,Neutral,Yes,Yes,Cash
+2249,Mumbai,Male,Diploma,Employed,Android,Standard,Satisfied,Yes,No,Credit Card
+2250,Kolkata,Male,Master's,Employed,iPhone,Standard,Very Satisfied,Yes,No,Net Banking
+2251,Kolkata,Female,Master's,Employed,Windows Laptop,Standard,Satisfied,Yes,No,UPI
+2252,Hyderabad,Female,Diploma,Employed,Windows Laptop,Basic,Satisfied,Yes,Yes,UPI
+2253,Jaipur,Female,High School,Student,Android,Basic,Satisfied,Yes,No,Debit Card
+2254,Bengaluru,Male,PhD,Employed,iPhone,Standard,Satisfied,Yes,No,Debit Card
+2255,Kolkata,Male,Bachelor's,Retired,Android,Basic,Satisfied,No,No,Credit Card
+2256,Kolkata,Female,Bachelor's,Employed,iPhone,Basic,Very Satisfied,Yes,No,Net Banking
+2257,Jaipur,Male,High School,Student,Android,Basic,Very Satisfied,Yes,No,Net Banking
+2258,Mumbai,Female,Bachelor's,Employed,Android,Premium,Satisfied,Yes,No,Credit Card
+2259,Delhi,Female,Bachelor's,Employed,Android,Basic,Satisfied,No,No,Cash
+2260,Jaipur,Female,Master's,Employed,MacBook,Standard,Very Satisfied,Yes,No,Debit Card
+2261,Pune,Male,Bachelor's,Employed,Windows Laptop,Basic,Dissatisfied,No,Yes,Debit Card
+2262,Delhi,Female,Master's,Employed,Tablet,Standard,Very Satisfied,Yes,No,UPI
+2263,Mumbai,Female,Master's,Employed,iPhone,Basic,Neutral,No,No,UPI
+2264,Jaipur,Male,High School,Employed,iPhone,Basic,Satisfied,No,No,UPI
+2265,Bengaluru,Male,Bachelor's,Student,Android,Standard,Very Satisfied,Yes,Yes,Debit Card
+2266,Jaipur,Female,Diploma,Unemployed,iPhone,Standard,Satisfied,No,No,Debit Card
+2267,Mumbai,Female,Bachelor's,Employed,Android,Basic,Neutral,Yes,No,UPI
+2268,Jaipur,Male,Bachelor's,Employed,Windows Laptop,Basic,Very Satisfied,No,No,Credit Card
+2269,Kolkata,Female,Bachelor's,Student,Windows Laptop,Basic,Satisfied,Yes,No,UPI
+2270,Jaipur,Female,Diploma,Employed,MacBook,Basic,Neutral,Yes,No,UPI
+2271,Bengaluru,Male,Master's,Self-employed,Android,Standard,Satisfied,No,Yes,Cash
+2272,Delhi,Female,Bachelor's,Student,iPhone,Basic,Satisfied,No,No,Credit Card
+2273,Jaipur,Male,Bachelor's,Student,Android,Standard,Satisfied,Yes,Yes,UPI
+2274,Delhi,Female,Bachelor's,Student,Android,Basic,Dissatisfied,No,No,Credit Card
+2275,Jaipur,Female,Diploma,Employed,Windows Laptop,Standard,Satisfied,Yes,No,Credit Card
+2276,Jaipur,Female,Master's,Unemployed,iPhone,Basic,Very Satisfied,Yes,Yes,Debit Card
+2277,Bengaluru,Female,Bachelor's,Employed,Windows Laptop,Basic,Very Dissatisfied,No,Yes,Cash
+2278,Pune,Female,Bachelor's,Employed,Android,Basic,Satisfied,Yes,No,Credit Card
+2279,Jaipur,Female,Diploma,Employed,Tablet,Premium,Satisfied,Yes,Yes,Credit Card
+2280,Mumbai,Male,Bachelor's,Employed,Tablet,Standard,Very Satisfied,No,No,UPI
+2281,Bengaluru,Male,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,Yes,Credit Card
+2282,Delhi,Female,Bachelor's,Student,MacBook,Basic,Very Satisfied,Yes,No,UPI
+2283,Mumbai,Male,Master's,Employed,Android,Basic,Neutral,Yes,No,UPI
+2284,Jaipur,Male,Master's,Employed,Windows Laptop,Basic,Satisfied,No,No,Net Banking
+2285,Delhi,Male,High School,Employed,MacBook,Basic,Very Satisfied,Yes,Yes,Credit Card
+2286,Bengaluru,Female,Master's,Employed,MacBook,Standard,Very Satisfied,Yes,No,Credit Card
+2287,Kolkata,Female,Bachelor's,Self-employed,MacBook,Premium,Satisfied,No,No,UPI
+2288,Kolkata,Female,PhD,Employed,iPhone,Standard,Satisfied,Yes,No,Net Banking
+2289,Kolkata,Female,Diploma,Employed,MacBook,Standard,Satisfied,Yes,No,UPI
+2290,Mumbai,Female,Bachelor's,Student,Windows Laptop,Basic,Very Dissatisfied,No,No,Credit Card
+2291,Jaipur,Male,Bachelor's,Self-employed,Android,Basic,Very Satisfied,No,No,Net Banking
+2292,Mumbai,Male,Bachelor's,Employed,Android,Standard,Very Satisfied,Yes,No,Credit Card
+2293,Delhi,Female,Master's,Employed,Windows Laptop,Basic,Satisfied,No,No,Cash
+2294,Jaipur,Female,Bachelor's,Student,Windows Laptop,Basic,Neutral,No,No,UPI
+2295,Jaipur,Female,Diploma,Employed,iPhone,Premium,Satisfied,Yes,No,Debit Card
+2296,Mumbai,Male,Bachelor's,Employed,MacBook,Premium,Dissatisfied,No,No,Cash
+2297,Mumbai,Male,Master's,Employed,Windows Laptop,Standard,Satisfied,No,No,Credit Card
+2298,Delhi,Female,Master's,Student,iPhone,Basic,Satisfied,Yes,No,Debit Card
+2299,Hyderabad,Male,Bachelor's,Unemployed,iPhone,Premium,Neutral,Yes,No,Credit Card
+2300,Mumbai,Non-binary,Bachelor's,Employed,iPhone,Basic,Satisfied,No,No,Debit Card
+2301,Chennai,Male,Diploma,Employed,Windows Laptop,Basic,Very Satisfied,No,No,Net Banking
+2302,Delhi,Male,Master's,Employed,iPhone,Basic,Dissatisfied,Yes,No,Debit Card
+2303,Bengaluru,Male,Master's,Unemployed,iPhone,Premium,Satisfied,No,No,Cash
+2304,Delhi,Female,Bachelor's,Unemployed,Windows Laptop,Premium,Satisfied,No,No,Credit Card
+2305,Bengaluru,Female,Master's,Employed,Windows Laptop,Standard,Neutral,No,No,Credit Card
+2306,Jaipur,Male,Diploma,Employed,MacBook,Basic,Satisfied,No,Yes,UPI
+2307,Jaipur,Female,Master's,Employed,Android,Standard,Satisfied,Yes,No,Debit Card
+2308,Pune,Male,Diploma,Self-employed,Windows Laptop,Basic,Dissatisfied,Yes,No,Net Banking
+2309,Delhi,Female,Diploma,Employed,iPhone,Premium,Dissatisfied,Yes,No,Credit Card
+2310,Delhi,Female,Bachelor's,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2311,Kolkata,Female,Bachelor's,Student,Windows Laptop,Basic,Neutral,Yes,No,Credit Card
+2312,Jaipur,Non-binary,PhD,Unemployed,Windows Laptop,Standard,Satisfied,No,No,Debit Card
+2313,Bengaluru,Female,Bachelor's,Self-employed,iPhone,Basic,Satisfied,No,No,Cash
+2314,Bengaluru,Female,Master's,Unemployed,Windows Laptop,Premium,Very Satisfied,Yes,No,UPI
+2315,Delhi,Female,Master's,Employed,Android,Basic,Satisfied,No,No,UPI
+2316,Mumbai,Male,Master's,Employed,Android,Standard,Very Satisfied,Yes,No,Credit Card
+2317,Jaipur,Non-binary,Master's,Self-employed,Android,Basic,Satisfied,Yes,No,UPI
+2318,Hyderabad,Female,Bachelor's,Employed,iPhone,Basic,Satisfied,Yes,No,Cash
+2319,Delhi,Male,Bachelor's,Student,Windows Laptop,Basic,Satisfied,Yes,No,Credit Card
+2320,Delhi,Female,Diploma,Retired,MacBook,Basic,Satisfied,Yes,No,Credit Card
+2321,Delhi,Male,Bachelor's,Student,Windows Laptop,Standard,Satisfied,No,Yes,UPI
+2322,Kolkata,Female,Master's,Employed,Android,Basic,Dissatisfied,No,Yes,Credit Card
+2323,Hyderabad,Male,Bachelor's,Employed,Android,Basic,Satisfied,Yes,No,Cash
+2324,Kolkata,Male,Bachelor's,Employed,Android,Standard,Satisfied,Yes,Yes,Credit Card
+2325,Pune,Male,Diploma,Employed,Windows Laptop,Basic,Very Dissatisfied,Yes,No,UPI
+2326,Pune,Female,Bachelor's,Employed,Android,Standard,Neutral,No,No,UPI
+2327,Bengaluru,Male,Master's,Student,iPhone,Standard,Very Satisfied,No,Yes,Cash
+2328,Kolkata,Non-binary,Bachelor's,Self-employed,Windows Laptop,Basic,Satisfied,Yes,No,Cash
+2329,Bengaluru,Female,Master's,Student,Windows Laptop,Standard,Very Satisfied,Yes,No,UPI
+2330,Mumbai,Male,Bachelor's,Employed,Android,Basic,Satisfied,Yes,No,Credit Card
+2331,Pune,Male,Master's,Employed,Android,Basic,Very Satisfied,No,No,UPI
+2332,Bengaluru,Female,Bachelor's,Student,Windows Laptop,Basic,Very Satisfied,Yes,No,Credit Card
+2333,Jaipur,Male,Bachelor's,Employed,iPhone,Premium,Dissatisfied,Yes,Yes,UPI
+2334,Mumbai,Female,Diploma,Employed,Android,Standard,Very Satisfied,Yes,Yes,Net Banking
+2335,Delhi,Male,Bachelor's,Student,MacBook,Standard,Very Dissatisfied,Yes,No,Cash
+2336,Chennai,Female,Master's,Student,iPhone,Premium,Satisfied,Yes,No,UPI
+2337,Mumbai,Female,Bachelor's,Employed,iPhone,Basic,Very Satisfied,Yes,No,Credit Card
+2338,Chennai,Male,Diploma,Unemployed,Android,Premium,Satisfied,No,No,UPI
+2339,Mumbai,Male,Master's,Employed,Android,Standard,Satisfied,Yes,Yes,UPI
+2340,Hyderabad,Male,High School,Employed,Android,Premium,Satisfied,Yes,No,UPI
+2341,Jaipur,Non-binary,Bachelor's,Retired,Android,Premium,Dissatisfied,Yes,No,UPI
+2342,Kolkata,Female,PhD,Employed,iPhone,Premium,Very Dissatisfied,Yes,No,Cash
+2343,Bengaluru,Female,Bachelor's,Employed,iPhone,Basic,Dissatisfied,No,No,UPI
+2344,Delhi,Female,Master's,Employed,MacBook,Standard,Dissatisfied,No,Yes,Net Banking
+2345,Delhi,Male,Bachelor's,Employed,Tablet,Standard,Satisfied,Yes,Yes,UPI
+2346,Delhi,Male,Master's,Employed,Android,Standard,Satisfied,No,No,Credit Card
+2347,Mumbai,Male,Master's,Employed,Android,Basic,Satisfied,No,No,Credit Card
+2348,Hyderabad,Male,Master's,Student,Windows Laptop,Premium,Satisfied,No,No,Cash
+2349,Kolkata,Female,Diploma,Employed,Tablet,Basic,Very Dissatisfied,Yes,No,UPI
+2350,Pune,Female,Master's,Student,MacBook,Standard,Neutral,Yes,Yes,UPI
+2351,Bengaluru,Male,Diploma,Employed,Android,Standard,Very Satisfied,Yes,No,Debit Card
+2352,Mumbai,Female,PhD,Student,Android,Basic,Very Satisfied,No,Yes,Debit Card
+2353,Chennai,Female,Diploma,Employed,Android,Standard,Satisfied,Yes,Yes,Debit Card
+2354,Chennai,Female,Diploma,Employed,MacBook,Basic,Dissatisfied,Yes,No,UPI
+2355,Delhi,Female,Master's,Employed,iPhone,Standard,Very Satisfied,Yes,No,UPI
+2356,Kolkata,Female,Diploma,Student,,Premium,Very Satisfied,Yes,No,Net Banking
+2357,Mumbai,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,Yes,Yes,Credit Card
+2358,Hyderabad,Female,Master's,Self-employed,Android,Standard,Neutral,Yes,No,Credit Card
+2359,Kolkata,Male,Diploma,Employed,iPhone,Basic,Very Dissatisfied,Yes,No,UPI
+2360,Pune,Male,Diploma,Employed,Android,Premium,Satisfied,No,No,UPI
+2361,Jaipur,Male,Bachelor's,Employed,Windows Laptop,Premium,Very Satisfied,No,No,Cash
+2362,Bengaluru,Female,Diploma,Student,Windows Laptop,Basic,Satisfied,Yes,No,Debit Card
+2363,Jaipur,Female,Diploma,Employed,Windows Laptop,Standard,Neutral,No,Yes,UPI
+2364,Hyderabad,Female,High School,Employed,Android,Standard,Satisfied,Yes,No,Cash
+2365,Delhi,Female,Bachelor's,Student,MacBook,Standard,Very Satisfied,No,No,Credit Card
+2366,Pune,Female,Bachelor's,Unemployed,Windows Laptop,Standard,Satisfied,No,No,UPI
+2367,Kolkata,Male,High School,Student,Android,Standard,Very Satisfied,Yes,No,Credit Card
+2368,Delhi,Female,Bachelor's,Employed,Android,Standard,Satisfied,Yes,No,Debit Card
+2369,Mumbai,Female,Bachelor's,Employed,Windows Laptop,Basic,Satisfied,Yes,No,UPI
+2370,Pune,Female,High School,Employed,Android,Basic,Satisfied,Yes,Yes,Credit Card
+2371,Mumbai,Male,Bachelor's,Employed,Android,Premium,Satisfied,Yes,No,Debit Card
+2372,Delhi,Male,Master's,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2373,Jaipur,Male,Bachelor's,Unemployed,Android,Standard,Satisfied,No,No,Cash
+2374,Mumbai,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,Yes,No,UPI
+2375,Pune,Male,Bachelor's,Unemployed,iPhone,Premium,Satisfied,Yes,Yes,Credit Card
+2376,Bengaluru,Male,Diploma,Self-employed,Android,Standard,Satisfied,Yes,No,Debit Card
+2377,Jaipur,Female,Master's,Unemployed,Windows Laptop,Basic,Satisfied,Yes,No,Credit Card
+2378,Mumbai,Male,Master's,Employed,Android,Basic,Satisfied,No,No,Credit Card
+2379,Mumbai,Male,Master's,Employed,Android,Basic,Satisfied,Yes,No,Credit Card
+2380,Delhi,Female,Diploma,Employed,Android,Premium,Satisfied,Yes,No,Net Banking
+2381,Hyderabad,Male,Bachelor's,Employed,Windows Laptop,Standard,Satisfied,Yes,No,Debit Card
+2382,Delhi,Male,Diploma,Employed,Tablet,Basic,Dissatisfied,Yes,No,Net Banking
+2383,Bengaluru,Male,Bachelor's,Employed,iPhone,Standard,Satisfied,Yes,Yes,UPI
+2384,Kolkata,Female,Bachelor's,Student,Android,Basic,Satisfied,No,No,Credit Card
+2385,Bengaluru,Male,Bachelor's,Self-employed,Android,Basic,Satisfied,Yes,No,Credit Card
+2386,Pune,Male,Diploma,Student,Android,Basic,Satisfied,Yes,No,UPI
+2387,Jaipur,Female,Master's,Unemployed,MacBook,Basic,Very Satisfied,Yes,No,Debit Card
+2388,Delhi,Female,High School,Student,Android,Standard,Very Satisfied,No,No,UPI
+2389,Jaipur,Female,High School,Student,Tablet,Premium,Satisfied,Yes,Yes,UPI
+2390,Hyderabad,Female,Master's,Self-employed,iPhone,Premium,Neutral,Yes,No,UPI
+2391,Chennai,Non-binary,Master's,Self-employed,iPhone,Premium,Satisfied,No,No,UPI
+2392,Delhi,Male,Bachelor's,Employed,MacBook,Basic,Satisfied,No,Yes,UPI
+2393,Delhi,Female,Bachelor's,Unemployed,Android,Basic,Satisfied,Yes,Yes,Credit Card
+2394,Mumbai,Female,Diploma,Employed,Windows Laptop,Standard,Satisfied,No,No,Credit Card
+2395,Bengaluru,Non-binary,Diploma,Self-employed,Android,Premium,Very Satisfied,No,No,UPI
+2396,Pune,Female,Bachelor's,Employed,MacBook,Standard,Neutral,Yes,No,UPI
+2397,Pune,Male,Bachelor's,Employed,iPhone,Standard,Satisfied,No,Yes,Net Banking
+2398,Kolkata,Female,Bachelor's,Employed,Android,Standard,Dissatisfied,Yes,No,UPI
+2399,Delhi,Female,Diploma,Student,MacBook,Standard,Satisfied,Yes,Yes,Credit Card
+2400,Pune,Male,Master's,Employed,Android,Premium,Satisfied,Yes,No,Credit Card
+2401,Bengaluru,Female,Master's,Employed,Android,Standard,Satisfied,No,No,Credit Card
+2402,Delhi,Male,Diploma,Student,Windows Laptop,Basic,,Yes,No,Net Banking
+2403,Kolkata,Female,High School,Unemployed,iPhone,Basic,Very Satisfied,Yes,No,Credit Card
+2404,Jaipur,Male,Bachelor's,Employed,MacBook,Standard,Very Satisfied,Yes,No,Cash
+2405,Hyderabad,Male,Master's,Student,Windows Laptop,Basic,Satisfied,Yes,Yes,Net Banking
+2406,Hyderabad,Male,Master's,Employed,Windows Laptop,Premium,Very Satisfied,No,No,UPI
+2407,Kolkata,Female,Master's,Student,Android,Standard,Satisfied,No,No,UPI
+2408,Bengaluru,Male,Bachelor's,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2409,Mumbai,Non-binary,Diploma,Employed,Tablet,Basic,Neutral,No,No,Credit Card
+2410,Chennai,Female,Bachelor's,Student,Android,Standard,Neutral,No,No,Credit Card
+2411,Hyderabad,Female,Diploma,Student,iPhone,Standard,Satisfied,Yes,No,UPI
+2412,Bengaluru,Male,Master's,Employed,Android,Basic,Dissatisfied,Yes,Yes,UPI
+2413,Hyderabad,Female,Diploma,Student,Android,Premium,Satisfied,Yes,Yes,Credit Card
+2414,Delhi,Male,Bachelor's,Self-employed,iPhone,Basic,Neutral,Yes,Yes,Debit Card
+2415,Bengaluru,Male,Bachelor's,Self-employed,Windows Laptop,Basic,Satisfied,Yes,No,Debit Card
+2416,Chennai,Female,Bachelor's,Student,Windows Laptop,Basic,Neutral,Yes,No,Cash
+2417,Delhi,Male,Bachelor's,Employed,MacBook,Standard,Dissatisfied,No,No,UPI
+2418,Bengaluru,Male,Bachelor's,Student,Android,Standard,Very Satisfied,Yes,No,Credit Card
+2419,Kolkata,Female,Master's,Employed,iPhone,Premium,Satisfied,No,Yes,Cash
+2420,Hyderabad,Male,Master's,Student,Android,Basic,Very Satisfied,No,No,Debit Card
+2421,Chennai,Female,Master's,Unemployed,Windows Laptop,Premium,Satisfied,Yes,Yes,Credit Card
+2422,Mumbai,Female,Bachelor's,Student,Android,Standard,Very Dissatisfied,Yes,No,Credit Card
+2423,Kolkata,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,No,No,UPI
+2424,Jaipur,Female,Bachelor's,Student,Android,Basic,Satisfied,No,No,Net Banking
+2425,Bengaluru,Male,Bachelor's,Student,MacBook,Basic,Very Dissatisfied,Yes,Yes,Credit Card
+2426,Bengaluru,Female,Bachelor's,Employed,MacBook,Premium,Very Satisfied,No,Yes,Credit Card
+2427,Hyderabad,Male,Bachelor's,Employed,MacBook,Basic,Satisfied,Yes,No,Credit Card
+2428,Kolkata,Female,High School,Retired,Android,Basic,Satisfied,No,Yes,Credit Card
+2429,Hyderabad,Male,High School,Student,Tablet,Standard,Satisfied,No,No,UPI
+2430,Pune,Male,Master's,Student,Android,Premium,Satisfied,Yes,No,Debit Card
+2431,Mumbai,Male,High School,Employed,Android,Standard,Neutral,Yes,No,Credit Card
+2432,Bengaluru,Non-binary,Bachelor's,Employed,Android,Standard,Very Satisfied,Yes,Yes,UPI
+2433,Bengaluru,Male,Bachelor's,Self-employed,Android,Basic,Satisfied,No,No,Credit Card
+2434,Jaipur,Male,Diploma,Unemployed,iPhone,Premium,Neutral,No,No,Net Banking
+2435,Bengaluru,Male,Master's,Self-employed,Android,Basic,Very Dissatisfied,No,No,UPI
+2436,Chennai,Male,Diploma,Student,iPhone,Basic,Satisfied,Yes,No,Credit Card
+2437,Pune,Male,Master's,Employed,Windows Laptop,Premium,Very Satisfied,Yes,Yes,Credit Card
+2438,Hyderabad,Male,Master's,Employed,MacBook,Basic,Very Satisfied,Yes,No,Debit Card
+2439,Mumbai,Female,Diploma,Employed,Windows Laptop,Basic,Satisfied,Yes,No,Debit Card
+2440,Bengaluru,Male,Diploma,Employed,iPhone,Standard,Very Satisfied,Yes,No,Net Banking
+2441,Jaipur,Male,Bachelor's,Employed,Android,Basic,Satisfied,No,No,UPI
+2442,Mumbai,Female,Bachelor's,Employed,MacBook,Basic,Satisfied,Yes,No,Net Banking
+2443,Bengaluru,Female,Diploma,Self-employed,Android,Standard,Satisfied,No,No,Net Banking
+2444,Delhi,Non-binary,PhD,Employed,Android,Standard,Dissatisfied,No,No,Credit Card
+2445,Jaipur,Female,Diploma,Unemployed,Android,Standard,Neutral,No,No,Credit Card
+2446,Pune,Female,Master's,Employed,Windows Laptop,Basic,Satisfied,Yes,No,UPI
+2447,Mumbai,Female,Diploma,Student,Android,Standard,Neutral,No,No,Credit Card
+2448,Mumbai,Female,PhD,Employed,Windows Laptop,Standard,Very Satisfied,No,No,UPI
+2449,Delhi,Male,Diploma,Student,Android,Basic,Very Satisfied,Yes,No,UPI
+2450,Bengaluru,Male,Bachelor's,Employed,iPhone,Basic,Satisfied,No,Yes,Cash
